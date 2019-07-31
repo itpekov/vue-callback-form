@@ -2,6 +2,11 @@
 
 > A web form for sending user name and phone to backend
 
+using:
+vue 2
+element-ui
+bootstrap 4
+
 ## Build Setup
 
 ``` bash
